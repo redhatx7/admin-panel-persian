@@ -5,7 +5,7 @@
 # instalition 
 1.project clone :
 ```
-git clone https://github.com/mohammadashrafian/admin-panel-persian.git
+git clone https://github.com/YOUR_USERNAME/admin-panel-persian.git
 ```
 
 2.extract file css , jquery , images , fonts :

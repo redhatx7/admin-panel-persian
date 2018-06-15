@@ -2,7 +2,7 @@
  RTL Admin Panel [demo](http://websitam.com/shop/demo/adminpanel)
  
 ![alt text](http://websitam.com/blog/wp-content/uploads/2018/05/Untitled-1-1.png)
-![alt text](http://websitam.com/shop/demo/adminpanel/screenshot.PNG)
+
 
 
 # instalition 

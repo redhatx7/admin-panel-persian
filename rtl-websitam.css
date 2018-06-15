@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'sans';
+    src: url('../fonts/IRANSansWeb_Light.woff') format('woff'),
+    url(../fonts/IRANSansWeb_Light.eot) format('eot'),
+    url(../fonts/IRANSansWeb_Light.eot?#iefix) format('embedded-opentype'),
+    url('../fonts/IRANSansWeb_Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+}
+li ,p ,h1 , h2 ,h3 , h4 , h5 ,h6 ,ul , label button, div ,a {
+    font-family: sans !important;
+}
+
+.page-horizontal-bar.compact-menu .menu.accordion-menu ul li a{
+    text-align: right !important;
+}
+.stats-info ul li{
+    text-align: left !important;
+    padding-left: 12px !important;
+}
+
+.panel .panel-heading .panel-control{
+    float: left !important;
+    height: auto !important;
+    margin-top: -18px !important;
+}
+
+.inbox-widget .inbox-item .inbox-item-author{
+    margin-top: 21px !important;
+}
+
+.facebook-box i, .twitter-box i{
+    position: absolute !important;
+    left: 10px !important;
+}
+
+.dropdown-menu li a i{
+    margin-right: 0 !important;
+}
+
+.profile-info-value{
+    float: left !important;
+}
